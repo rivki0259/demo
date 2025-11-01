@@ -2,7 +2,7 @@ const a = ()=>{
     alert("hellow!")
 }
 
-const b = () => {
 
-
+const b = ()=>{
+    return 5
 }
