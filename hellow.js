@@ -1,5 +1,5 @@
 const a = ()=>{
-    alert("hellow world!")
+    alert("hellow!")
 }
 
 const b = () => {
